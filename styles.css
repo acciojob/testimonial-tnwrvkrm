@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.mainBlock{
+	background: #f5f5f5;
+	padding: 20px 50px;
+}
+
+.div1-2{
+	border: 1px solid gray;
+	margin: 20px;
+	padding: 10px;
+	background: white;
+}
+
+p:last-child{
+	text-align: right;
+}
